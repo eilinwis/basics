@@ -3,6 +3,8 @@ package ru.netology;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
+import ru.netology.service.CashBackService;
+
 
 public class CashBackServiceTest {
     public CashBackService service = new CashBackService();
