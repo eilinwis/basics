@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.service.;
 
 
 public class CashBackService {
